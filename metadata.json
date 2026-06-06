@@ -1,0 +1,6 @@
+{
+  "name": "Music Sample Manager",
+  "description": "Professional music sample manager and synthesizer platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
